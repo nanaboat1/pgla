@@ -22,6 +22,7 @@ const App : React.FC = ( ) =>  {
 
       <div className='right-slide'> 
       #right-slide div
+      # ekow's first commit
 
       </div>
 
